@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4b44eec.css",
+    "main.js": "/static/js/main.060a0ef7.js",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.e2258e171e6a9bc59619.jpg",
+    "static/media/about.png": "/static/media/about.f64173e0bd4a507b162b.png",
+    "static/media/portfolio.jpg": "/static/media/portfolio.3aaab8ce30b8fa423ac6.jpg",
+    "static/media/skincare.jpg": "/static/media/skincare.9099b1241940b20796e5.jpg",
+    "static/media/hangman.jpeg": "/static/media/hangman.6195ac530bcc518e3843.jpeg",
+    "static/media/work.jpg": "/static/media/work.3c77a5e56f5d2000a0ce.jpg",
+    "static/media/progression.jpg": "/static/media/progression.da6b60d119893fea22ad.jpg",
+    "static/media/fuelqueue.jpg": "/static/media/fuelqueue.bb09eeba6107a8c9f560.jpg",
+    "index.html": "/index.html",
+    "main.c4b44eec.css.map": "/static/css/main.c4b44eec.css.map",
+    "main.060a0ef7.js.map": "/static/js/main.060a0ef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b44eec.css",
+    "static/js/main.060a0ef7.js"
+  ]
+}
